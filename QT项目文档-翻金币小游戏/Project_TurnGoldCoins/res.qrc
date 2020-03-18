@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/back.png</file>
+        <file>res/back.wav</file>
+        <file>res/back_1.png</file>
+        <file>res/background_2.png</file>
+        <file>res/biankuang.jpg</file>
+        <file>res/btn.wav</file>
+        <file>res/choose.wav</file>
+        <file>res/coin_PixMap.png</file>
+        <file>res/coin001.png</file>
+        <file>res/coin002.png</file>
+        <file>res/coin003.png</file>
+        <file>res/coin004.png</file>
+        <file>res/coin005.png</file>
+        <file>res/coin006.png</file>
+        <file>res/coin007.png</file>
+        <file>res/coin008.png</file>
+        <file>res/pixMap_beijin.png</file>
+        <file>res/small_btn.png</file>
+        <file>res/start.wav</file>
+        <file>res/start_background.jpg</file>
+        <file>res/start1.png</file>
+        <file>res/success.png</file>
+        <file>res/win.wav</file>
+        <file>res/bb.wav</file>
+    </qresource>
+</RCC>
